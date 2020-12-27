@@ -1,5 +1,8 @@
 _repo: Il-buco-nel-muro_64089
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64089-h/images/cover.jpg
 creator:
   author:
     agent_name: Guerrazzi, Francesco Domenico
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
     - https://it.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64089#Il-buco-nel-muro
 gutenberg_issued: '2020-12-20'
 gutenberg_type: Text
 identifiers:
